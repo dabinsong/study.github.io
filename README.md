@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dabinsong
 - 👀 I’m interested in development economics and data science
-- 🌱 I’m currently learning R, Python, and STATA, (almost every language social scientists deal with..!)
+- 🌱 I’m currently learning R, Python, and STATA (almost every language social scientists deal with..!)
 - 💞️ I’m looking to collaborate on int'l development-related research institutes
 - 📫 Please reach me via: dabinsong1201@gmail.com
 
